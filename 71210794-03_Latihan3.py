@@ -5,7 +5,7 @@ try:
     if (bulan%2 == 1 and bulan<=7) or (bulan%2 ==0 and bulan>7):
         print("Jumlah harinya adalah 31!")
     elif bulan == 2:
-        print("Jumlah harinya adalah 28 dan juga4 29")
+        print("Jumlah harinya adalah 28 dan juga 29")
     else :
         print("Jumlah harinya adalah 30")
 except:
